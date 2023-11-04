@@ -1,4 +1,4 @@
-![capa](https://github.com/alfredo-petri/resumos-bootcamp-ifood-logica-de-programacao/blob/main/git-e-github/CAPA2.png)
+![capa](https://github.com/alfredo-petri/alfredo-petri/blob/main/CAPA2.png))
 
 # Hello, my name is Alfredo A. Petri
 
