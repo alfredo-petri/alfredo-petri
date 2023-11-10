@@ -44,7 +44,7 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 
 </br>
 
-## - 🌱 In progress... I’m currently learning ... - Estudando 
+## - 🌱 In progress... I’m currently learning ... -  
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
