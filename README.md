@@ -58,18 +58,18 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 
 ## 🤝 - **Soft Skills** - Habilidades pessoais:
 
-👨‍💼 Liderança: Tenho a capacidade de liderar equipes, definir metas claras e ajudar os outros à atingir seu melhor potencial.
+👨‍💼 **Liderança:** Tenho a capacidade de liderar equipes, definir metas claras e ajudar os outros à atingir seu melhor potencial.
 
-👥 Trabalho em Equipe: Sou um colaborador eficaz, capaz de trabalhar em harmonia e contribuir para o sucesso do grupo.
+👥 **Trabalho em Equipe:** Sou um colaborador eficaz, capaz de trabalhar em harmonia e contribuir para o sucesso do grupo.
 
-🧐 Tomada de Decisões: Tomo decisões informadas, avaliando cuidadosamente as opções disponíveis e considerando as implicações a longo prazo.
+🧐 **Tomada de Decisões:** Tomo decisões informadas, avaliando cuidadosamente as opções disponíveis e considerando as implicações a longo prazo.
 
-💡 Pensamento Crítico e Criativo: Possuo a habilidade de analisar problemas de maneira crítica e encontrar soluções inovadoras para desafios complexos.
+💡 **Pensamento Crítico e Criativo:** Possuo a habilidade de analisar problemas de maneira crítica e encontrar soluções inovadoras para desafios complexos.
 
-🌟 Adaptabilidade: Sou flexível e aberto a mudanças, capaz de me ajustar a novos cenários e aprender com cada experiência.
+🌟 **Adaptabilidade:** Sou flexível e aberto a mudanças, capaz de me ajustar a novos cenários e aprender com cada experiência.
 
-⏳ Paciência: Mantenho a calma em situações desafiadoras e sou capaz de persistir em tarefas que exigem tempo e esforço.
+⏳ **Paciência:** Mantenho a calma em situações desafiadoras e sou capaz de persistir em tarefas que exigem tempo e esforço.
 
-💼 Ética de Trabalho: Demonstro um forte compromisso com a qualidade, a integridade e a ética em todos os projetos em que me envolvo.
+💼 **Ética de Trabalho:** Demonstro um forte compromisso com a qualidade, a integridade e a ética em todos os projetos em que me envolvo.
 
 </div>
