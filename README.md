@@ -8,9 +8,9 @@
 
 🎮 Fora do mundo da tecnologia, sou um apaixonado por jogos de estratégia e RPG, que me ensinaram a abordar desafios com criatividade e planejamento. Sempre fui fascinado em resolver problemas e criar soluções inovadoras.
 
-🚀 Agora, estou determinado a entrar no mercado de desenvolvimento Web e me tornar um **desenvolvedor fullstack** para dar vida a soluções inovadoras.
+🚀 Atuo como desenvolvedor Front-end, agora estou determinado a melhorar meus conhecimentos sobre desenvolvimento Web e me tornar um **desenvolvedor fullstack** para dar vida a soluções inovadoras.
 
-💻 Combinando minhas habilidades técnicas com minha paixão pela tecnologia atualmente, estou empenhado em minha jornada de aprendizado como estudante de programação, focando meus estudos na construção de uma base de conhecimento sólida. 
+💻 Combinando minhas habilidades técnicas com minha paixão pela tecnologia atualmente, estou empenhado em minha jornada de aprendizado, focando meus estudos na construção de uma base de conhecimento sólida. 
 
 📚 Estou animado para aprender, crescer e contribuir para projetos incríveis no universo da programação. Vamos codificar o futuro juntos!
 
@@ -54,11 +54,15 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 ## - 🌱 In progress... I’m currently learning ... -  
 
 ### Sistema Operacional
-![Linux](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Bibliotecas e Frameworks
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 </br>
 
