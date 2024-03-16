@@ -42,16 +42,22 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 ### Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-</br>
-
-## - 🌱 In progress... I’m currently learning ... -  
-
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ### Bibliotecas e Frameworks
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+</br>
+
+## - 🌱 In progress... I’m currently learning ... -  
+
+### Sistema Operacional
+![Linux](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+### Bibliotecas e Frameworks
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 </br>
