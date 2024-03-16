@@ -1,4 +1,4 @@
-![capa](https://github.com/alfredo-petri/alfredo-petri/blob/main/CAPA-atual-github.png)
+![capa](https://github.com/alfredo-petri/alfredo-petri/blob/main/atualizada%2016-03.png)
 
 <div align="center" width="50px">
 
