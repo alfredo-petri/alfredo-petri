@@ -1,4 +1,4 @@
-![capa](https://github.com/alfredo-petri/alfredo-petri/blob/main/alfredo-dev-assets/banner-git.png)
+![capa](https://github.com/alfredo-petri/alfredo-petri/blob/main/alfredo-dev-assets/capa-git.png)
 
 <div align="center" width="50px">
 
