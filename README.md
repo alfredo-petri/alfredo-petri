@@ -4,15 +4,17 @@
 
 # 👋 Hello, my name is Alfredo A. Petri
 
-💼 Sou um entusiasta da tecnologia, com mais de 15 anos de experiência em tecnologia e TI.
+💼 Profissional com mais de 15 anos de experiência em tecnologia e TI, agora atuando como Desenvolvedor Front-end. Minha missão é unir habilidades técnicas e paixão por inovação para criar soluções impactantes e otimizadas para web e mobile.
 
-🎮 Fora do mundo da tecnologia, sou um apaixonado por jogos de estratégia e RPG, que me ensinaram a abordar desafios com criatividade e planejamento. Sempre fui fascinado em resolver problemas e criar soluções inovadoras.
+🎮 Apaixonado por jogos de estratégia e RPG, onde aprendi a enfrentar desafios com criatividade, planejamento e pensamento crítico. Esta mesma abordagem trago para o desenvolvimento de software, sempre em busca de novas soluções para problemas complexos.
 
-🚀 Atuo como desenvolvedor Front-end, agora estou determinado a melhorar meus conhecimentos sobre desenvolvimento Web e me tornar um **desenvolvedor fullstack** para dar vida a soluções inovadoras.
+🚀 Em transição para Full Stack, estou comprometido com meu crescimento contínuo no desenvolvimento web e atualmente curso uma pós-graduação em Engenharia de Software. Tenho como objetivo evoluir para atuar como Tech Lead, liderando projetos com excelência e colaboração.
 
-💻 Combinando minhas habilidades técnicas com minha paixão pela tecnologia atualmente, estou empenhado em minha jornada de aprendizado, focando meus estudos na construção de uma base de conhecimento sólida. 
+💻 Trabalho com tecnologias como React Native Web, MUI, Axios e WebSockets, sempre focado nas melhores práticas de SEO e acessibilidade, oferecendo uma experiência de usuário de alta qualidade. Além disso, valorizo a integração eficaz entre front-end e back-end, buscando sempre a máxima eficiência.
 
-📚 Estou animado para aprender, crescer e contribuir para projetos incríveis no universo da programação. Vamos codificar o futuro juntos!
+📚 Aprendizagem contínua é um dos meus pilares. Estou constantemente aprimorando minhas habilidades e sempre aberto a colaborar com projetos que visam impactar positivamente o mundo da programação.
+
+🤝 Vamos codificar o futuro juntos? 
 
 
 </br>
@@ -38,9 +40,11 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -48,20 +52,33 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 
 ### Bibliotecas e Frameworks
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### Devops
+
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 </br>
 
 ## - 🌱 In progress... I’m currently learning ... -  
 
-### Sistema Operacional
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ### Bibliotecas e Frameworks
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Devops
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 </br>
