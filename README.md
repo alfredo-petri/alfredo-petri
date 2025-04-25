@@ -4,13 +4,13 @@
 
 # 👋 Hello, my name is Alfredo A. Petri
 
-💼 Profissional com mais de 15 anos de experiência em tecnologia e TI, agora atuando como Desenvolvedor Front-end. Minha missão é unir habilidades técnicas e paixão por inovação para criar soluções impactantes e otimizadas para web e mobile.
+💼 Profissional com mais de 15 anos de experiência em tecnologia e TI, agora atuando como Desenvolvedor Full-stack. Minha missão é unir habilidades técnicas e paixão por inovação para criar soluções impactantes e otimizadas para web e mobile.
 
 🎮 Apaixonado por jogos de estratégia e RPG, onde aprendi a enfrentar desafios com criatividade, planejamento e pensamento crítico. Esta mesma abordagem trago para o desenvolvimento de software, sempre em busca de novas soluções para problemas complexos.
 
-🚀 Em transição para Full Stack, estou comprometido com meu crescimento contínuo no desenvolvimento web e atualmente curso uma pós-graduação em Engenharia de Software. Tenho como objetivo evoluir para atuar como Tech Lead, liderando projetos com excelência e colaboração.
+🚀 Comprometido com meu crescimento contínuo no desenvolvimento web/mobile, atualmente curso pós-graduação em Engenharia de Software. Tenho como objetivo evoluir para atuar como Tech Lead, liderando projetos com excelência e colaboração.
 
-💻 Trabalho com tecnologias como React Native Web, MUI, Axios e WebSockets, sempre focado nas melhores práticas de SEO e acessibilidade, oferecendo uma experiência de usuário de alta qualidade. Além disso, valorizo a integração eficaz entre front-end e back-end, buscando sempre a máxima eficiência.
+💻 Trabalho com tecnologias como React, React Native, Node.js, Express, Fastify, PostgreSQL, Docker, Vitest, sempre focado nas melhores práticas de SEO e acessibilidade, oferecendo uma experiência de usuário de alta qualidade. Além disso, valorizo a integração eficaz entre front-end e back-end, buscando sempre a máxima eficiência.
 
 📚 Aprendizagem contínua é um dos meus pilares. Estou constantemente aprimorando minhas habilidades e sempre aberto a colaborar com projetos que visam impactar positivamente o mundo da programação.
 
@@ -50,15 +50,21 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-### Bibliotecas e Frameworks
+### Front-end
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### Devops
+### Back-end
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
 
+### Devops
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -70,13 +76,11 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 ## - 🌱 In progress... I’m currently learning ... -  
 
 ### Bibliotecas e Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Devops
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
