@@ -4,7 +4,7 @@
 
 # 👋 Hello, my name is Alfredo A. Petri
 
-💼 Profissional com mais de 15 anos de experiência em tecnologia e TI, agora atuando como Desenvolvedor Full-stack. Minha missão é unir habilidades técnicas e paixão por inovação para criar soluções impactantes e otimizadas para web e mobile.
+💼 Desenvolvedor Full-stack com 2 anos de experiência em tecnologias como React, React Native, Express e mais de 15 anos de experiência em tecnologia e TI. Minha missão é unir habilidades técnicas e paixão por inovação para criar soluções impactantes e otimizadas para web e mobile.
 
 🎮 Apaixonado por jogos de estratégia e RPG, onde aprendi a enfrentar desafios com criatividade, planejamento e pensamento crítico. Esta mesma abordagem trago para o desenvolvimento de software, sempre em busca de novas soluções para problemas complexos.
 
