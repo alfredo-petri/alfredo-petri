@@ -1,36 +1,93 @@
 ![capa](https://github.com/alfredo-petri/alfredo-petri/blob/main/alfredo-dev-assets/capa-git.png)
 
 <div align="center" width="50px">
+# 👋 Hello, I’m Alfredo A. Petri
 
-# 👋 Hello, my name is Alfredo A. Petri
+Frontend Software Engineer with +15 years in technology and +4 years of professional experience focused on building scalable Web and Mobile applications. I specialize in React and React Native, with strong expertise in TypeScript-driven architectures, performance optimization, and maintainable frontend systems.
 
-💼 Desenvolvedor full-stack com 2 anos de experiencia pratica em tecnologias como React, React Native, Express e Fastify, alem de mais de 15 anos de expertise em areas relacionadas a tecnologia e TI. Minha missão é unir habilidades técnicas e paixão por inovação para criar soluções impactantes e otimizadas para web e mobile.
+Currently leading frontend architecture for real-time urban mobility solutions (MAAS), integrating REST APIs and IoT devices in mission-critical environments. My work focuses on scalable frontend architecture, state management strategies, rendering optimization, and high-quality UI systems.
 
-🎮 Apaixonado por jogos de estratégia e RPG, onde aprendi a enfrentar desafios com criatividade, planejamento e pensamento crítico. Esta mesma abordagem trago para o desenvolvimento de software, sempre em busca de novas soluções para problemas complexos.
+---
 
-🚀 Comprometido com meu crescimento contínuo no desenvolvimento web/mobile, atualmente curso pós-graduação em Engenharia de Software. Tenho como objetivo evoluir para atuar como Tech Lead, liderando projetos com excelência e colaboração.
+## 🏗 Engineering Approach
 
-💻 Trabalho com tecnologias como React, React Native, Node.js, Express, Fastify, PostgreSQL, Docker, Vitest, sempre focado nas melhores práticas de SEO e acessibilidade, oferecendo uma experiência de usuário de alta qualidade. Além disso, valorizo a integração eficaz entre front-end e back-end, buscando sempre a máxima eficiência.
+I believe frameworks are tools — architecture is the foundation.
 
-📚 Aprendizagem contínua é um dos meus pilares. Estou constantemente aprimorando minhas habilidades e sempre aberto a colaborar com projetos que visam impactar positivamente o mundo da programação.
+I design systems with:
 
-🤝 Vamos codificar o futuro juntos? 
+- Clean Architecture principles  
+- SOLID fundamentals  
+- Feature-based and layered structures  
+- Clear separation of concerns  
+- Strong typing with TypeScript  
+- Automated testing (Jest, Vitest, Testing Library)  
 
+I prioritize scalability, performance, accessibility (a11y), and long-term maintainability over short-term solutions.
 
-</br>
+---
 
-## - **Meet me** - Conecte-se comigo:
+## 💻 Core Technologies
 
-Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesite em entrar em contato comigo para discutir projetos, ideias ou apenas para trocar conhecimentos e experiências.
+**Frontend & Mobile**
+- React  
+- React Native  
+- TypeScript  
+- Zustand  
+- TanStack Query  
+- React Hook Form  
+- Zod  
+- Tailwind CSS  
+- Sass  
+- Vite  
+- Expo  
 
+**Backend & APIs**
+- Node.js  
+- Express  
+- REST APIs  
+
+**Architecture & Engineering**
+- Clean Architecture  
+- SOLID  
+- Design Patterns  
+- Systems Design  
+
+**DevOps & Tooling**
+- Docker  
+- CI/CD  
+- Git  
+
+---
+
+## 🚀 What I Do
+
+- Architect and build scalable SPA and mobile applications  
+- Optimize rendering performance and state management  
+- Structure projects from scratch  
+- Migrate legacy systems to modern stacks  
+- Lead code reviews and architectural decisions  
+- Collaborate across frontend, backend, and product teams  
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Frontend Architecture  
+- Performance Engineering  
+- System Design  
+- Scalable Frontend Systems  
+- Growing toward Software Architecture roles in the international market  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to collaborating on challenging projects involving scalable frontend systems, real-time applications, and product-driven architectures.
+
+Let’s build impactful software.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5541996516300)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8&display=inline-block)](https://www.linkedin.com/in/alfredo-augusto-petri-81b1b6b6)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](+https://github.com/alfredo-petri)
-
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfredo-petri&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alfredo-petri&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
--->
 
 </br>
 
@@ -84,23 +141,5 @@ Estou sempre aberto a conversas, colaborações e novas oportunidades. Não hesi
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-
-</br>
-
-## 🤝 - **Soft Skills** - Habilidades pessoais:
-
-👨‍💼 **Liderança:** Tenho a capacidade de liderar equipes, definir metas claras e ajudar os outros à atingir seu melhor potencial.
-
-👥 **Trabalho em Equipe:** Sou um colaborador eficaz, capaz de trabalhar em harmonia e contribuir para o sucesso do grupo.
-
-🧐 **Tomada de Decisões:** Tomo decisões informadas, avaliando cuidadosamente as opções disponíveis e considerando as implicações a longo prazo.
-
-💡 **Pensamento Crítico e Criativo:** Possuo a habilidade de analisar problemas de maneira crítica e encontrar soluções inovadoras para desafios complexos.
-
-🌟 **Adaptabilidade:** Sou flexível e aberto a mudanças, capaz de me ajustar a novos cenários e aprender com cada experiência.
-
-⏳ **Paciência:** Mantenho a calma em situações desafiadoras e sou capaz de persistir em tarefas que exigem tempo e esforço.
-
-💼 **Ética de Trabalho:** Demonstro um forte compromisso com a qualidade, a integridade e a ética em todos os projetos em que me envolvo.
 
 </div>
