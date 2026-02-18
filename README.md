@@ -4,11 +4,15 @@
 
 # 👋 Hello, I’m Alfredo A. Petri
 
-Frontend Software Engineer with +15 years in technology and +4 years of professional experience building scalable Web and Mobile applications.
+</div>
 
-I specialize in **React and React Native**, designing **TypeScript-driven architectures** focused on performance, scalability, and long-term maintainability.  
+Frontend Software Engineer with +15 years in technology and +4 years of professional experience designing and delivering scalable Web and Mobile applications. My background combines deep technical execution with architectural decision-making in real production environments.
 
-Currently leading frontend architecture for real-time **urban mobility (MAAS)** solutions, integrating REST APIs and IoT devices in mission-critical environments.
+I specialize in **React and React Native**, building **TypeScript-driven architectures** focused on performance, scalability, maintainability, and clear separation of concerns. My work emphasizes rendering optimization, state management strategies, reusable component systems, and structured frontend architectures aligned with Clean Architecture and SOLID principles.
+
+Currently, I lead frontend architecture at **Bike Fácil**, developing real-time **urban mobility (MAAS)** solutions that integrate REST APIs and IoT devices such as smart bike stations, access control systems, and biometric readers. I was also responsible for the original Proof of Concept that enabled the company’s public-sector partnership initiative.
+
+Previously, I contributed to the development of **StartJa**, a transactional and fiscal management system (invoicing, inventory, customer and supplier management), as well as e-commerce and EdTech platforms. Across projects, I have migrated legacy systems (CRA to Vite), modernized frontend architectures, and contributed to Docker-based environments and CI/CD pipelines.
 
 ---
 
@@ -25,7 +29,7 @@ I design systems using:
 - Automated testing (Jest, Vitest, Testing Library)  
 - Performance-first and accessibility-oriented mindset  
 
-My focus is always scalability, rendering optimization, separation of concerns, and maintainable UI systems.
+My focus is long-term maintainability, scalability, and building frontend systems that evolve safely over time.
 
 ---
 
@@ -56,9 +60,11 @@ Docker | CI/CD | Git
 - Performance Engineering  
 - Systems Design  
 - Scalable Frontend Systems  
-- Growing toward Software Architecture roles in the international market  
+- Evolving toward Software Architecture roles in the international market  
 
 ---
+
+<div align="center">
 
 ## 🤝 Let’s Connect
 
@@ -106,8 +112,8 @@ Open to collaboration on scalable frontend systems, real-time applications, and 
 
 ## 🌱 Currently Exploring
 
-![Nest.js](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
