@@ -64,8 +64,6 @@ Docker | CI/CD | Git
 
 ---
 
-<div align="center">
-
 ## 🤝 Let’s Connect
 
 Open to collaboration on scalable frontend systems, real-time applications, and product-driven architectures.
@@ -118,4 +116,3 @@ Open to collaboration on scalable frontend systems, real-time applications, and 
 ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
 
-</div>
